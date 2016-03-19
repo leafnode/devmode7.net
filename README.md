@@ -14,3 +14,6 @@ This website does not intend to infringe any copyrights. It will collect
 materials available freely on the Internet, pointing to an author when
 he or she is provided. At any moment the author's takedown notice will be
 respected.
+
+The name devmode7 comes from the famous mode 7 of SNES console, that allowed
+rudimentary 3D games programming.
